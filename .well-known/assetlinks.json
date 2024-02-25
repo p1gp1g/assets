@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.singularkey.androidfido2",
+    "sha256_cert_fingerprints":
+    ["c5:8b:e3:9b:36:b3:67:12:d7:0c:da:c5:9d:65:2a:fc:43:9b:ae:1b:76:c9:7d:a1:7e:69:2b:7a:15:ab:27:96"]
+  }
+}]
